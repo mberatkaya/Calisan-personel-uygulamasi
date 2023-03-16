@@ -1,0 +1,8 @@
+C:\Users\MUSTAFA BERAT KAYA\source\repos\Csharp algoritma\İnheritance uygulama 1\obj\Debug\İnheritance uygulama 1.csproj.AssemblyReference.cache
+C:\Users\MUSTAFA BERAT KAYA\source\repos\Csharp algoritma\İnheritance uygulama 1\obj\Debug\İnheritance uygulama 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MUSTAFA BERAT KAYA\source\repos\Csharp algoritma\İnheritance uygulama 1\obj\Debug\İnheritance uygulama 1.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFA BERAT KAYA\source\repos\Csharp algoritma\İnheritance uygulama 1\bin\Debug\İnheritance uygulama 1.exe.config
+C:\Users\MUSTAFA BERAT KAYA\source\repos\Csharp algoritma\İnheritance uygulama 1\bin\Debug\İnheritance uygulama 1.exe
+C:\Users\MUSTAFA BERAT KAYA\source\repos\Csharp algoritma\İnheritance uygulama 1\bin\Debug\İnheritance uygulama 1.pdb
+C:\Users\MUSTAFA BERAT KAYA\source\repos\Csharp algoritma\İnheritance uygulama 1\obj\Debug\İnheritance uygulama 1.exe
+C:\Users\MUSTAFA BERAT KAYA\source\repos\Csharp algoritma\İnheritance uygulama 1\obj\Debug\İnheritance uygulama 1.pdb
